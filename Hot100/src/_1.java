@@ -1,4 +1,10 @@
-
+/**
+ * 
+ * Description: 两数之和
+ * @Package:  
+ * @author: cqzeng   
+ * @date: 2021年4月26日 下午10:02:08
+ */
 public class _1 {
 	public int[] twoSum(int[] nums, int target) {
         int[] answer = new int[2];
