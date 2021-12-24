@@ -1,3 +1,12 @@
+/**
+ * Given a sorted array (ascending order) and a target number,
+ * find the first index of this number in O(log n)O(logn) time complexity.
+ *
+ * If the target number does not exist in the array, return -1.
+ *
+ * source：领扣（LintCode）
+ * link：https://www.lintcode.com/problem/14/
+ */
 public class __14 {
     /**
      * @param nums: The integer array.
